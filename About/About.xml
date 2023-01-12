@@ -1,5 +1,5 @@
 <ModMetaData>
-	<name>Vanilla Biotech Expanded - Xenotype Icons</name>
+	<name>Vanilla Races Expanded - Custom Icons</name>
 	<author>Oskar Potocki, Sarg Bjornson</author>
 	<supportedVersions>
 		<li>1.4</li>
@@ -34,8 +34,7 @@
 	</loadAfter>
 
 	<packageId>vanillabiotechexpanded.xenotypeicons</packageId>
-	<description>
-
-
-	</description>
+	<description>Vanilla Races Expanded is a brand new series of mods to enhance Biotech features, add to the storytelling and the world-building of RimWorld, and to introduce new, cool types ofxenohumans, complete with their own unique genes, behaviors, mechanics and items.
+	
+	This mod introduces hundreds of new icons that can be used to create custom xenotypes. From variations of the original xenotype icons, to numerous custom ones, players will now be able to pick a more fitting icon for any of their custom races created in the Xenotype creator.</description>
 </ModMetaData>
